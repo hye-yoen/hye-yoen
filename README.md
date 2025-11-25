@@ -3,6 +3,9 @@
 </div>
 
 ---
+### Tech Stack :
+---
+
 <div align="start">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
@@ -20,6 +23,16 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hye-yoen&show_icons=true&theme=radical)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-yoen&layout=compact)
+### GitHub Analytics: 
+<div> 
+  <tr>
+    <tb>
+    <img src="https://github-readme-stats.vercel.app/api?username=hye-yoen&show_icons=true&theme=radical" >
+    </tb>
+    <tb>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hye-yoen&layout=compact"  width="350" height="250">
+      </tb>
+  </tr>
+</div>
