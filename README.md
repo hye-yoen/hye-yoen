@@ -1,10 +1,12 @@
+<h1>Hi I'am hye-yoen, Nice to meet you! </h1>
+
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_1280.jpg" width="300" height="250" />
+  <img src="https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_1280.jpg" width="500" height="300" />
 </div>
 
 ---
-### Tech Stack :
 ---
+### Tech Stack :
 
 <div align="start">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -36,3 +38,15 @@
       </tb>
   </tr>
 </div>
+
+
+---
+
+### find me: 
+<div align="center">
+  <a href="tgeelhy:email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+
