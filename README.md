@@ -5,6 +5,13 @@
 </div>
 
 ---
+### About me : 
+
+<div>🤖 I enjoy designing backend architecture and building core functionality.</div>
+<div>💻 Whenever I encounter new technologies or system structures, I like to try them out myself and learn through hands-on experience.</div>
+<div>🤝 I also enjoy collaborating on a wide range of projects across backend, data, and general development.</div>
+<div>🌟 In my free time, I explore various content and often find inspiration for things that would be fun to build.</div>
+
 ---
 ### Tech Stack :
 
