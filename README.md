@@ -4,13 +4,6 @@
   <img src="https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_1280.jpg" width="500" height="300" />
 </div>
 
----
-### About me : 
-
-<div>🤖 I enjoy designing backend architecture and building core functionality.</div>
-<div>💻 Whenever I encounter new technologies or system structures, I like to try them out myself and learn through hands-on experience.</div>
-<div>🤝 I also enjoy collaborating on a wide range of projects across backend, data, and general development.</div>
-<div>🌟 In my free time, I explore various content and often find inspiration for things that would be fun to build.</div>
 
 ---
 ### Tech Stack :
@@ -24,8 +17,10 @@
 </div>
 
 <div align="start">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 <div align="start">
@@ -34,18 +29,40 @@
 
 ---
 
-### GitHub Analytics: 
-<div> 
-  <tr>
-    <tb>
-    <img src="https://github-readme-stats.vercel.app/api?username=hye-yoen&show_icons=true&theme=radical" >
-    </tb>
-    <tb>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hye-yoen&layout=compact"  width="350" height="250">
-      </tb>
-  </tr>
-</div>
+### 📊 GitHub Analytics: 
+
+<table>
+  <thead>
+    <tr>
+      <th>Status</th>
+      <th>Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hye-yoen" />
+      </td>
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hye-yoen" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+![Snake animation](dist/github-snake.svg)
 
 
+
+
+
+
+
+
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hye-yoen) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hye-yoen) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hye-yoen) -->
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hye-yoen)-->
 
 
