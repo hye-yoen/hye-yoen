@@ -30,7 +30,7 @@
 ---
 
 ### 📊 GitHub Analytics: 
-
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -44,30 +44,34 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hye-yoen" />
       </td>
       <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hye-yoen" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hye-yoen" />
       </td>
     </tr>
   </tbody>
 </table>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hye-yoen/hye-yoen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hye-yoen/hye-yoen/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hye-yoen/hye-yoen/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>contribution snake</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hye-yoen/hye-yoen/output/github-contribution-grid-snake-dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hye-yoen/hye-yoen/output/github-contribution-grid-snake.svg">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hye-yoen/hye-yoen/output/github-contribution-grid-snake.svg">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
-
-
-
-
-
-
-
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hye-yoen) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hye-yoen) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hye-yoen) -->
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hye-yoen)-->
 
 
